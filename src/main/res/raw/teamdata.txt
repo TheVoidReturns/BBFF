@@ -1,0 +1,191 @@
+	Race	RR cost	Wizard	Apoth
+1	Amazon	50000	Amazon Mage	Yes
+2	Chaos	60000	Chaos Wizard	Yes
+3	Chaos Dwarf	70000	Chaos Dwarf Wizard	Yes
+4	Chaos Pact	70000		Yes
+5	Dark Elf	50000	Dark Elf Wizard	Yes
+6	Dwarf	50000	Dwarf Wizard	Yes
+7	Elf	50000	Elf Wizard	Yes
+8	Goblin	60000	Goblin Shaman	Yes
+9	Halfling	60000	Halfling Wizard	Yes
+10	High Elf	50000	High Elf Wizard	Yes
+11	Human	50000	Human Wizard	Yes
+12	Khemri	70000	Khermir Wizard	No
+13	Lizardmen	60000	Lizardmen Wizard	Yes
+14	Necromantic	70000	Necromantic Wizard	No
+15	Norse	60000	Norse Wizard	Yes
+16	Nurgle	70000	Nurgle Wizard	No
+17	Ogre	70000	Ogre Shaman	Yes
+18	Orc	60000	Orc Shaman	Yes
+19	Skaven	60000	Skaven Greyseer	Yes
+20	Slann	50000		Yes
+21	Undead	70000	Undead Wizard	No
+22	Underworld	70000		Yes
+23	Vampire	70000	Vampire Wizard	Yes
+24	Wood Elf	50000	Wood Elf Wizard	Yes
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
